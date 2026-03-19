@@ -8,7 +8,7 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/Dotnet.gitignore
 
 # My files
-.pages
+*.pages
 
 # Build results
 [Dd]ebug/

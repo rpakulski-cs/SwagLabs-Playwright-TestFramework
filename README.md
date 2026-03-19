@@ -2,12 +2,12 @@
 
 Automated E2E testing framework for SwagLabs using C#, Playwright, and MSTest.
 
-## 🏗️ Architecture
+## Architecture
 This solution follows the Separation of Concerns (SoC) principle to ensure scalability and maintainability:
 * **`SwagLabs.Pages`**: A Class Library containing Page Object Models (POM). It has no knowledge of the testing framework.
 * **`SwagLabs.UITests`**: An MSTest project responsible for test execution, data management, and assertions.
 
-## 🚀 Environment Setup 
+## Environment Setup 
 
 Follow these commands to recreate this project structure and install all necessary dependencies via .NET CLI.
 
