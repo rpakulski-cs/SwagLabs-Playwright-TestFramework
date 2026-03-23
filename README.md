@@ -52,3 +52,9 @@ playwright install
 ```
 
 ***
+
+
+
+todo:
+HEADED=1 dotnet test
+PWDEBUG=1 dotnet test
